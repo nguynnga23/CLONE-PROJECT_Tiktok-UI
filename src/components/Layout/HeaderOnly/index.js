@@ -11,4 +11,4 @@ function DefaultLayout({ children }) {
     );
 }
 
-export default DefaultLayout;
+export default Header;
